@@ -21,7 +21,7 @@ For questions and encountering any issues regarding the "Token" Contract, reach 
 
 ## Author
 Aiary Jen C. Calugtong
-\n422002944@ntc.edu.ph
+422002944@ntc.edu.ph
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
